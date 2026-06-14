@@ -61,7 +61,6 @@ NayePankh-AI-Volunteer-Awareness-Assistant/
 ├── requirements.txt
 ├── README.md
 ├── logo.png
-│
 ├── home.png
 ├── chatbot.png
 ├── awareness_generator.png
